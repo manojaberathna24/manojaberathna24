@@ -5,6 +5,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojaberathna24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/manojaberathna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -78,9 +82,20 @@
 
 <br>
 
-### GitHub Analytics
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+### 📈 GitHub Analytics & Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojaberathna24&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
