@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Machine+Learning+%2F+AI+Engineer;Data+Science+Enthusiast;Full-Stack+Developer" alt="Animated Roles" />
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojaberathna24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/manojaberathna" target="_blank">
