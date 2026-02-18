@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Manoj Aberathna.</h1>
+<h1 align="center">MANOJ ABERATHNA</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+intelligent+AI+solutions+that+solve+real-world+problems." alt="Tagline" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Full-Stack+Developer;Data+Science+Enthusiast" alt="Roles" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/manojaberathna" target="_blank">
