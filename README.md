@@ -83,21 +83,18 @@
 <br>
 
 ### 🏆 GitHub Trophies
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
+</p>
 
 <br>
 
 ### 📈 GitHub Analytics & Top Languages
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="48%" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojaberathna24&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojaberathna24&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
