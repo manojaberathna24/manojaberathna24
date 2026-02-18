@@ -1,7 +1,7 @@
 <h1 align="center">MANOJ ABERATHNA</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Machine+Learning+%2F+AI+Engineer;Data+Science+Enthusiast;Full-Stack+Developer" alt="Animated Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&duration=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Machine+Learning+%2F+AI+Engineer;Data+Science+Enthusiast;Full-Stack+Developer" alt="Animated Roles" />
 </h3>
 
 <p align="center">
