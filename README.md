@@ -6,6 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manojaberathna24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-FF4B4B?style=for-the-badge&logoColor=white" alt="Download Resume"/>
+  </a>
 </p>
 
 <p align="center">
@@ -23,7 +26,7 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 * **Education:** 4th-year BSc (Hons) Information Technology undergraduate at Horizon Campus.
 * **Focus Area:** Specializing in Artificial Intelligence, Machine Learning, and Data Science.
@@ -32,7 +35,17 @@
 
 <br>
 
-### Tech Arsenal
+### 📜 Certifications & Achievements
+
+- 🏅 **Microsoft AI & ML Engineering, AI Foundation** - IBM (Coursera)
+- 🏅 **AI Foundations Associate, Fusion AI Agent Studio** - Oracle
+- 🏅 **Data Analytics with Generative AI, Prompt Engineering** - Simplilearn
+- 🏅 **AI/ML Engineer Course (Stage 1)** - SLIIT, Sri Lanka
+- 🏅 **Intro to Deep Learning** - Kaggle
+
+<br>
+
+### 🛠️ Tech Arsenal
 
 **Programming Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,8 +54,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI & Machine Learning**<br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -52,26 +63,18 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-**Web & Mobile Frameworks**<br>
+**Web, DevOps & Databases**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Databases & Tools**<br>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -85,7 +88,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1)
 
 </div>
 
@@ -94,9 +97,9 @@
 ### 📈 GitHub Analytics & Top Languages
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojaberathna24&theme=tokyonight&hide_border=true&background=0D1117)
 
