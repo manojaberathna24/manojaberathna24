@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manojaberathna24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="#" target="_blank">
+  <a href="https://drive.google.com/file/d/1QcQ_eD2MevYyWtKSVVaI3ZSdqDUXHHxC/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-FF4B4B?style=for-the-badge&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 * **Education:** 4th-year BSc (Hons) Information Technology undergraduate at Horizon Campus.
 * **Focus Area:** Specializing in Artificial Intelligence, Machine Learning, and Data Science.
@@ -35,7 +35,7 @@
 
 <br>
 
-### 📜 Certifications & Achievements
+###  Certifications & Achievements
 
 - 🏅 **Microsoft AI & ML Engineering, AI Foundation** - IBM (Coursera)
 - 🏅 **AI Foundations Associate, Fusion AI Agent Studio** - Oracle
@@ -74,7 +74,7 @@
 
 <br>
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
