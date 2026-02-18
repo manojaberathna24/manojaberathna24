@@ -6,6 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manojaberathna24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://drive.google.com/file/d/1QcQ_eD2MevYyWtKSVVaI3ZSdqDUXHHxC/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-FF4B4B?style=for-the-badge&logoColor=white" alt="Download Resume"/>
+  </a>
 </p>
 
 <p align="center">
@@ -23,7 +26,7 @@
 
 ---
 
-### About Me
+###  About Me
 
 * **Education:** 4th-year BSc (Hons) Information Technology undergraduate at Horizon Campus.
 * **Focus Area:** Specializing in Artificial Intelligence, Machine Learning, and Data Science.
@@ -32,7 +35,17 @@
 
 <br>
 
-### Tech Arsenal
+###  Certifications & Achievements
+
+- 🏅 **Microsoft AI & ML Engineering, AI Foundation** - IBM (Coursera)
+- 🏅 **AI Foundations Associate, Fusion AI Agent Studio** - Oracle
+- 🏅 **Data Analytics with Generative AI, Prompt Engineering** - Simplilearn
+- 🏅 **AI/ML Engineer Course (Stage 1)** - SLIIT, Sri Lanka
+- 🏅 **Intro to Deep Learning** - Kaggle
+
+<br>
+
+### 🛠️ Tech Arsenal
 
 **Programming Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,7 +84,7 @@
 
 <br>
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -85,7 +98,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1)
 
 </div>
 
@@ -94,9 +107,9 @@
 ### 📈 GitHub Analytics & Top Languages
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojaberathna24&theme=tokyonight&hide_border=true&background=0D1117)
 
