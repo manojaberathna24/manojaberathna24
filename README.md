@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojaberathna24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+ 
   <a href="https://drive.google.com/file/d/1QcQ_eD2MevYyWtKSVVaI3ZSdqDUXHHxC/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-FF4B4B?style=for-the-badge&logoColor=white" alt="Download Resume"/>
   </a>
@@ -45,7 +45,7 @@
 
 <br>
 
-### 🛠️ Tech Arsenal
+###  Tech Arsenal
 
 **Programming Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -84,7 +84,7 @@
 
 <br>
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -104,7 +104,7 @@
 
 <br>
 
-### 📈 GitHub Analytics & Top Languages
+###  GitHub Analytics & Top Languages
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)
