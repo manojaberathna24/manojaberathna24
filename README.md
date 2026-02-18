@@ -1,108 +1,101 @@
-<div align="center">
+<h1 align="center">MANOJ ABERATHNA</h1>
 
-# Manoj Aberathna
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Machine+Learning+%2F+AI+Engineer;Data+Science+Enthusiast;Full-Stack+Developer" alt="Animated Roles" />
+</h3>
 
-**Machine Learning Engineer · AI Enthusiast · Full-Stack Developer**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojaberathna24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=googlechrome&logoColor=70a5fd)](http://3.111.246.130:5000/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=70a5fd)](https://linkedin.com/in/manojaberathna)
-[![Email](https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=gmail&logoColor=70a5fd)](mailto:sandaruwanctk@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=manojaberathna24&color=1a1b27&style=flat-square&label=views)](https://github.com/manojaberathna24)
+<p align="center">
+  <a href="https://linkedin.com/in/manojaberathna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="http://3.111.246.130:5000/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-</div>
-
----
-
-### About
-
-4th-year BSc (Hons) Information Technology undergraduate at Horizon Campus, specializing in Artificial Intelligence, Machine Learning, and Data Science. I build end-to-end AI solutions — from intelligent chatbots and image classification systems to automated data analysis platforms. Currently exploring cloud infrastructure (AWS, Docker) and seeking AI/ML and Full-Stack internship opportunities.
-
----
-
-### Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=70a5fd)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=70a5fd)
-![Java](https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=70a5fd)
-![Kotlin](https://img.shields.io/badge/Kotlin-1a1b27?style=flat-square&logo=kotlin&logoColor=70a5fd)
-![C](https://img.shields.io/badge/C-1a1b27?style=flat-square&logo=c&logoColor=70a5fd)
-![PHP](https://img.shields.io/badge/PHP-1a1b27?style=flat-square&logo=php&logoColor=70a5fd)
-![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=70a5fd)
-![CSS](https://img.shields.io/badge/CSS-1a1b27?style=flat-square&logo=css3&logoColor=70a5fd)
-
-**AI & Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=flat-square&logo=tensorflow&logoColor=70a5fd)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1b27?style=flat-square&logo=pytorch&logoColor=70a5fd)
-![Keras](https://img.shields.io/badge/Keras-1a1b27?style=flat-square&logo=keras&logoColor=70a5fd)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-1a1b27?style=flat-square&logo=scikit-learn&logoColor=70a5fd)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1b27?style=flat-square&logo=opencv&logoColor=70a5fd)
-![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=flat-square&logo=numpy&logoColor=70a5fd)
-![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=flat-square&logo=pandas&logoColor=70a5fd)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=70a5fd)
-![React Native](https://img.shields.io/badge/React_Native-1a1b27?style=flat-square&logo=react&logoColor=70a5fd)
-![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=node.js&logoColor=70a5fd)
-![Flutter](https://img.shields.io/badge/Flutter-1a1b27?style=flat-square&logo=flutter&logoColor=70a5fd)
-![Flask](https://img.shields.io/badge/Flask-1a1b27?style=flat-square&logo=flask&logoColor=70a5fd)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=flat-square&logo=fastapi&logoColor=70a5fd)
-
-**Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-1a1b27?style=flat-square&logo=amazonwebservices&logoColor=70a5fd)
-![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=70a5fd)
-![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=70a5fd)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=70a5fd)
-![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=flat-square&logo=firebase&logoColor=70a5fd)
-![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=flat-square&logo=supabase&logoColor=70a5fd)
-![Git](https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=70a5fd)
-![Postman](https://img.shields.io/badge/Postman-1a1b27?style=flat-square&logo=postman&logoColor=70a5fd)
+<p align="center">
+  <b>Contact via Email:</b> <a href="mailto:sandaruwanctk@gmail.com">sandaruwanctk@gmail.com</a>
+</p>
 
 ---
+
+### About Me
+
+* **Education:** 4th-year BSc (Hons) Information Technology undergraduate at Horizon Campus.
+* **Focus Area:** Specializing in Artificial Intelligence, Machine Learning, and Data Science.
+* **Experience:** Passionate about developing end-to-end AI solutions, including intelligent chatbots, image classification systems, and automated data analysis platforms.
+* **Current Goals:** Exploring DevOps technologies (Docker, AWS) and actively seeking AI/ML and Full-Stack Internships.
+
+<br>
+
+### Tech Arsenal
+
+**Programming Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI & Machine Learning**<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+**Web & Mobile Frameworks**<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases & Tools**<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br>
 
 ### Featured Projects
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**Vehicle Damage ID**](https://github.com/manojaberathna24) | AI-powered vehicle damage detection with repair shop recommendations | Python, TensorFlow, Flask |
-| [**ConveneAI**](https://github.com/manojaberathna24) | Automated meeting assistant — transcription, summarization, and note generation | OpenAI Whisper, Selenium, NLP |
-| [**DataSense AI**](https://github.com/manojaberathna24) | Automated data preprocessing, ML model training, and visualization platform | Pandas, Scikit-learn, Streamlit |
-| [**SentinelWeb**](https://github.com/manojaberathna24) | Browser-based Endpoint Detection and Response (EDR) security system | Cybersecurity, Multi-agent |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Vehicle Damage ID** | Detects vehicle damage from images and recommends nearby repair shops. | Python, TensorFlow, Flask |
+| **ConveneAI** | Automated AI meeting assistant that transcribes and generates summaries. | OpenAI Whisper, Selenium |
+| **DataSense AI** | Platform for automated data preprocessing, ML training, and visualization. | Pandas, Scikit-learn, Streamlit |
+| **SentinelWeb** | Browser-based EDR (Endpoint Detection and Response) system. | Cybersecurity, Multi-agent |
 
----
+<br>
 
-### GitHub Analytics
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
-<div align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&ring_color=70a5fd&include_all_commits=true&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" height="170" />
+### 📈 GitHub Analytics & Top Languages
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojaberathna24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojaberathna24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojaberathna24&hide_border=true&background=0d1117&stroke=1a1b27&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="700" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojaberathna24&bg_color=0d1117&color=70a5fd&line=70a5fd&point=c9d1d9&area_color=1a1b27&area=true&hide_border=true" width="700" />
-
-</div>
-
----
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=manojaberathna24&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Open to collaboration on AI/ML projects. Let's build something meaningful.</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojaberathna24&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
